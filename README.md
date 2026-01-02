@@ -1,9 +1,20 @@
-In this we have followed pattern wise dsa learning and solved few commom problems for better understanding 
-Most array problems → two pointers
-Most substring problems → sliding window
-Most “count frequency” problems → hashmap
-Most traversal problems → BFS/DFS
-Most “choice/explore all” → recursion/backtracking
-Most parent-child problems → trees
-Most shortest path problems → graph + BFS
-Most optimization problems → DP
+# DSA Patterns
+
+This repository contains my practice solutions for Data Structures and Algorithms,
+organized by common problem-solving patterns used in technical interviews.
+
+## 🧠 Problem-Solving Patterns
+- **Two Pointers** → Most array problems
+- **Sliding Window** → Most substring problems
+- **Hash Map** → Frequency/count-based problems
+- **BFS / DFS** → Traversal problems
+- **Recursion / Backtracking** → Choice-based problems
+- **Trees** → Parent–child relationship problems
+- **Graphs (BFS)** → Shortest path problems
+- **Dynamic Programming** → Optimization problems
+
+## 💻 Language
+- C++
+
+## 🎯 Purpose
+To improve problem-solving skills and build a strong foundation for coding interviews.
