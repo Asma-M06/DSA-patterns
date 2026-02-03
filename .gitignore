@@ -11,3 +11,5 @@ sliding-window/*
 two-pointer/*
 !two-pointer/*.cpp
 !two-pointer/*.txt
+.DS_Store
+
