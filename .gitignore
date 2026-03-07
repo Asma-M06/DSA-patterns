@@ -13,3 +13,6 @@ two-pointer/*
 !two-pointer/*.txt
 .DS_Store
 
+recursion/*
+!recursion/*.cpp
+!recursion/*.txt
